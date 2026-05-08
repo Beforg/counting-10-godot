@@ -19,6 +19,10 @@ config/icon="res://icon.svg"
 
 GameManager="*uid://dts4ubkijq5bw"
 
+[display]
+
+window/size/resizable=false
+
 [input]
 
 usar_adrenalina={
